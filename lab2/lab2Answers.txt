@@ -1,0 +1,19 @@
+Question 1:
+
+         # create an INET, STREAMing socket
+         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+         # and then either s.bind((HOST, PORT))
+         # or s.connet((HOST, PORT))
+
+Question 2:
+
+Question 3:
+         socket.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
+
+Question 4:
+         Got their addresses and port number
+
+Question 5:
+         An empty string after it's finished
+
+Question 6:
