@@ -17,3 +17,4 @@ Question 5:
          An empty string after it's finished
 
 Question 6:
+         https://github.com/UliceNix/CMPUT404Labs/tree/master/lab2

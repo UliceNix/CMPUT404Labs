@@ -34,7 +34,7 @@ while True:
 					raise
     		
 			if not skip:
-				if (len(part) > 0):
+				if (len(part) > 0):.
 					print "> " + part
 					googleSocket.sendall(part)
 				else:
