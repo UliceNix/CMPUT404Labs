@@ -1,0 +1,10 @@
+1 . WebSocket is a computer communications protocol, providing full-duplex communication channels over a single TCP connection. 
+    Because people on different network need to communicate through web browsers
+
+2.Long-polling is a technique used to push updates to a web client. A connection is held open between the web client and the web server so that when the server has new information it can push it to the client. That connection is then closed.
+3. Long-polling connection is closed after sending the messages. So if the messages are coming constantly, the overhead of establishing connection will be huge, thus delaying the process of sending messages causing latency, etc.
+
+4.The bind() method creates a new function that, when called, has its this keyword set to the provided value, with a given sequence of arguments preceding any provided when the new function is called.
+
+5.A HTML5 Game framework
+
